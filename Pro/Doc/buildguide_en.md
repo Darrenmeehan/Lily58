@@ -20,7 +20,7 @@ Part name | Quantity | Remarks | Photo |
 | Micro USB Cable | 1 pcs | Magnetic connector recommended due to the low durability of the ProMicro socket ||
 
 ## Introduction
-The Pro version has color variations, and the photos in this build guide are are of the black version, but the white verison is functionally identical. Depending on the color and release date, some parts may differ, but there is no difference in operation.
+The Pro version has color variations, and the photos in this build guide are of the black version, but the white verison is functionally identical. Depending on the color and release date, some parts may differ, but there is no difference in operation.
   
 **Note that the case of the black version has a scratch-resistant paint (solder resist) that can arrive with scratches from shipping and transportation. This is the nature of the product.** 
 
